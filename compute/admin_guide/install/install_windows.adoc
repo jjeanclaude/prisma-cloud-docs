@@ -18,7 +18,7 @@ To deploy Defender on Windows, you’ll copy a PowerShell script from the Prisma
 === Feature matrix
 
 The following table compares Prisma Cloud's Windows Server feature support to Linux feature support:
-
+[ Please add an entry in table below for Windows Server 2022]
 [cols="2,1,1,1,1,1,1,1", frame="topbot"]
 |===
 |Platform |Vulnerability |Compliance 3+|Runtime defense 2+|Firewalls
