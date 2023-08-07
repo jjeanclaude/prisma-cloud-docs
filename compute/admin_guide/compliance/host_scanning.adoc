@@ -21,7 +21,7 @@ Prisma Cloud implements the checks from:
 
 [.task]
 === Enforce Application Control
-If you want to ensure that Linux hosts in your deployment are running versions of an application that you have allowed or cannnot run versions of applications that you want to deny, you can use the Application Control checks. Application control checks can generate alerts if a non-compliant version of the application is detected on a host.
+If you want to ensure that Linux hosts in your deployment are running versions of an application that you have allowed or cannot run versions of applications that you want to deny, you can use the Application Control checks. Application control checks can generate alerts if a non-compliant version of the application is detected on a host.
 
 The most common uses are for :
 * Enforce dedicated rules by application type. For example, control what versions of mysql can be running on a DB Server.
